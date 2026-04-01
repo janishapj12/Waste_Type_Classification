@@ -1,0 +1,13 @@
+config,validation_accuracy
+"{'n_neighbors': 1, 'weights': 'distance', 'metric': 'minkowski', 'p': 2}",0.6026785714285714
+"{'n_neighbors': 3, 'weights': 'distance', 'metric': 'minkowski', 'p': 2}",0.6238839285714286
+"{'n_neighbors': 5, 'weights': 'distance', 'metric': 'minkowski', 'p': 2}",0.6305803571428571
+"{'n_neighbors': 7, 'weights': 'distance', 'metric': 'minkowski', 'p': 2}",0.6573660714285714
+"{'n_neighbors': 3, 'weights': 'distance', 'metric': 'manhattan'}",0.47433035714285715
+"{'n_neighbors': 5, 'weights': 'distance', 'metric': 'manhattan'}",0.5491071428571429
+"{'n_neighbors': 7, 'weights': 'distance', 'metric': 'manhattan'}",0.5602678571428571
+"{'n_neighbors': 3, 'weights': 'uniform', 'metric': 'minkowski', 'p': 2}",0.609375
+"{'n_neighbors': 5, 'weights': 'uniform', 'metric': 'minkowski', 'p': 2}",0.6116071428571429
+"{'n_neighbors': 7, 'weights': 'uniform', 'metric': 'minkowski', 'p': 2}",0.6194196428571429
+"{'n_neighbors': 3, 'weights': 'distance', 'metric': 'cosine'}",0.7131696428571429
+"{'n_neighbors': 5, 'weights': 'distance', 'metric': 'cosine'}",0.7176339285714286

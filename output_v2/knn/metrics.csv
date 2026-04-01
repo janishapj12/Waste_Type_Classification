@@ -1,0 +1,2 @@
+Model,Best_Config,Validation_Accuracy,Test_Accuracy,Precision,Recall,F1_Score
+knn_v2,"{'n_neighbors': 5, 'weights': 'distance', 'metric': 'cosine'}",0.7176339285714286,0.7357142857142858,0.7481960476207249,0.7357142857142858,0.7363200582104487
