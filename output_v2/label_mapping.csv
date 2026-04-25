@@ -1,0 +1,7 @@
+Class_Name,Encoded_Label
+Glass,0
+Metal,1
+Plastic,2
+organic,3
+paper_cardboard,4
+trash,5
