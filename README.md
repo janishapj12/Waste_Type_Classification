@@ -349,10 +349,10 @@ Add your group member details here:
 
 Example:
 
-* IT – Member Name – Logistic Regression
-* IT – Member Name – KNN
-* IT – Member Name – SVM
-* IT – Member Name – Random Forest
+* Thilina– Logistic Regression
+* Pujani – KNN
+* Malinga – SVM
+* Hiruna – Random Forest
 
 ---
 
